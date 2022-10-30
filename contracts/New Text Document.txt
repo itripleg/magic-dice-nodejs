@@ -1,0 +1,5 @@
+# Magic Dice Contract
+
+this contract was compiled with [Remix](https://remix.ethereum.org/). I copied the artifact (metadata) files from there since they already contain the abi and bytecode needed to instantiate the contract locally.
+>abi = artifacts/CONTRACT_NAME_metadata.json
+>bytecode = artifacts/CONTRACT_NAME.json
